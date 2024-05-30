@@ -3,7 +3,7 @@
 .vscode/
 
 # data
-/data
+data*/
 
 # saved model
 /saved_models
